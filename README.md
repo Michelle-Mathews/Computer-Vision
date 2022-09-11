@@ -1,0 +1,2 @@
+# Computer-Vision
+The capacity to recognize the shape and motion of hands can help improve the user experience across a wide range of technological domains and platforms. For that we make use of the Open CV. It is an open-source library for image processing and computer vision applications that may be used to do tasks such as face detection, object tracking, landmark detection, and more. Python, Java, and C++ are among the languages supported.  Primary focus - Volume, Mouse control using Hand Gestures.
